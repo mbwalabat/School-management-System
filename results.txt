@@ -1,0 +1,232 @@
+Date : 2024-12-18 09:35:21
+Directory : e:\MERN-School-Management-System
+Total : 152 files,  103101 codes, 2989 comments, 5430 blanks, all 111520 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          6 |     48,500 |          0 |          5 |     48,505 |
+| CSS        |         17 |     19,772 |        467 |      1,871 |     22,110 |
+| HTML       |          8 |     16,650 |         96 |      1,145 |     17,891 |
+| JavaScript |        109 |     13,401 |      2,352 |      2,174 |     17,927 |
+| SCSS       |          2 |      2,509 |         74 |        139 |      2,722 |
+| XML        |          7 |      2,094 |          0 |          4 |      2,098 |
+| Markdown   |          2 |        174 |          0 |         90 |        264 |
+| Properties |          1 |          1 |          0 |          2 |          3 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |        152 |    103,101 |      2,989 |      5,430 |    111,520 |
+| . (Files)                                                                                        |          1 |        136 |          0 |         57 |        193 |
+| backend                                                                                          |         18 |      3,166 |         91 |        200 |      3,457 |
+| backend (Files)                                                                                  |          3 |      2,092 |          0 |          9 |      2,101 |
+| backend\controllers                                                                              |          7 |        790 |         81 |        136 |      1,007 |
+| backend\models                                                                                   |          7 |        214 |          0 |         16 |        230 |
+| backend\routes                                                                                   |          1 |         70 |         10 |         39 |        119 |
+| frontend                                                                                         |        133 |     99,799 |      2,898 |      5,173 |    107,870 |
+| frontend (Files)                                                                                 |          4 |     19,969 |          0 |         37 |     20,006 |
+| frontend\public                                                                                  |         54 |     72,840 |      2,606 |      4,386 |     79,832 |
+| frontend\public (Files)                                                                          |          1 |         16 |          7 |          4 |         27 |
+| frontend\public\homepage                                                                         |         53 |     72,824 |      2,599 |      4,382 |     79,805 |
+| frontend\public\homepage (Files)                                                                 |          8 |      2,066 |        116 |        177 |      2,359 |
+| frontend\public\homepage\css                                                                     |         15 |     16,592 |        459 |      1,851 |     18,902 |
+| frontend\public\homepage\css (Files)                                                             |          4 |      9,414 |        207 |      1,152 |     10,773 |
+| frontend\public\homepage\css\default-skin                                                        |          2 |        353 |         72 |         59 |        484 |
+| frontend\public\homepage\css\vendor                                                              |          9 |      6,825 |        180 |        640 |      7,645 |
+| frontend\public\homepage\fonts                                                                   |          7 |     46,269 |          4 |        988 |     47,261 |
+| frontend\public\homepage\fonts\icomoon                                                           |          1 |        986 |          0 |          0 |        986 |
+| frontend\public\homepage\fonts\icomoon demo                                                      |          6 |     45,283 |          4 |        988 |     46,275 |
+| frontend\public\homepage\fonts\icomoon demo (Files)                                              |          3 |     44,112 |          4 |        983 |     45,099 |
+| frontend\public\homepage\fonts\icomoon demo\demo-files                                           |          2 |        185 |          0 |          5 |        190 |
+| frontend\public\homepage\fonts\icomoon demo\fonts                                                |          1 |        986 |          0 |          0 |        986 |
+| frontend\public\homepage\js                                                                      |         21 |      5,388 |      1,946 |      1,227 |      8,561 |
+| frontend\public\homepage\js (Files)                                                              |          5 |      2,884 |        998 |        654 |      4,536 |
+| frontend\public\homepage\js\vendor                                                               |         16 |      2,504 |        948 |        573 |      4,025 |
+| frontend\public\homepage\scss                                                                    |          2 |      2,509 |         74 |        139 |      2,722 |
+| frontend\src                                                                                     |         75 |      6,990 |        292 |        750 |      8,032 |
+| frontend\src (Files)                                                                             |          3 |        130 |          6 |         27 |        163 |
+| frontend\src\assets                                                                              |          4 |        121 |          0 |          4 |        125 |
+| frontend\src\components                                                                          |         13 |        755 |        156 |        105 |      1,016 |
+| frontend\src\pages                                                                               |         42 |      5,275 |        130 |        541 |      5,946 |
+| frontend\src\pages (Files)                                                                       |          4 |        500 |          3 |         52 |        555 |
+| frontend\src\pages\admin                                                                         |         24 |      3,310 |        127 |        345 |      3,782 |
+| frontend\src\pages\admin (Files)                                                                 |          5 |        551 |         76 |         59 |        686 |
+| frontend\src\pages\admin\classRelated                                                            |          3 |        550 |         10 |         56 |        616 |
+| frontend\src\pages\admin\noticeRelated                                                           |          2 |        161 |          0 |         22 |        183 |
+| frontend\src\pages\admin\studentRelated                                                          |          6 |      1,114 |         41 |        105 |      1,260 |
+| frontend\src\pages\admin\subjectRelated                                                          |          3 |        460 |          0 |         49 |        509 |
+| frontend\src\pages\admin\teacherRelated                                                          |          5 |        474 |          0 |         54 |        528 |
+| frontend\src\pages\student                                                                       |          7 |        798 |          0 |         76 |        874 |
+| frontend\src\pages\teacher                                                                       |          7 |        667 |          0 |         68 |        735 |
+| frontend\src\redux                                                                               |         13 |        709 |          0 |         73 |        782 |
+| frontend\src\redux (Files)                                                                       |          1 |         18 |          0 |          3 |         21 |
+| frontend\src\redux\complainRelated                                                               |          2 |         58 |          0 |          6 |         64 |
+| frontend\src\redux\noticeRelated                                                                 |          2 |         58 |          0 |          6 |         64 |
+| frontend\src\redux\sclassRelated                                                                 |          2 |        175 |          0 |         16 |        191 |
+| frontend\src\redux\studentRelated                                                                |          2 |        102 |          0 |         10 |        112 |
+| frontend\src\redux\teacherRelated                                                                |          2 |         96 |          0 |         10 |        106 |
+| frontend\src\redux\userRelated                                                                   |          2 |        202 |          0 |         22 |        224 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                         | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| e:\MERN-School-Management-System\README.md                                                       | Markdown   |        136 |          0 |         57 |        193 |
+| e:\MERN-School-Management-System\backend\controllers\admin-controller.js                         | JavaScript |         62 |         73 |         18 |        153 |
+| e:\MERN-School-Management-System\backend\controllers\class-controller.js                         | JavaScript |         95 |          0 |         10 |        105 |
+| e:\MERN-School-Management-System\backend\controllers\complain-controller.js                      | JavaScript |         23 |          0 |          4 |         27 |
+| e:\MERN-School-Management-System\backend\controllers\notice-controller.js                        | JavaScript |         56 |          0 |          6 |         62 |
+| e:\MERN-School-Management-System\backend\controllers\student_controller.js                       | JavaScript |        247 |          1 |         43 |        291 |
+| e:\MERN-School-Management-System\backend\controllers\subject-controller.js                       | JavaScript |        134 |          7 |         23 |        164 |
+| e:\MERN-School-Management-System\backend\controllers\teacher-controller.js                       | JavaScript |        173 |          0 |         32 |        205 |
+| e:\MERN-School-Management-System\backend\index.js                                                | JavaScript |         21 |          0 |          7 |         28 |
+| e:\MERN-School-Management-System\backend\models\adminSchema.js                                   | JavaScript |         26 |          0 |          2 |         28 |
+| e:\MERN-School-Management-System\backend\models\complainSchema.js                                | JavaScript |         22 |          0 |          2 |         24 |
+| e:\MERN-School-Management-System\backend\models\noticeSchema.js                                  | JavaScript |         20 |          0 |          2 |         22 |
+| e:\MERN-School-Management-System\backend\models\sclassSchema.js                                  | JavaScript |         12 |          0 |          4 |         16 |
+| e:\MERN-School-Management-System\backend\models\studentSchema.js                                 | JavaScript |         58 |          0 |          2 |         60 |
+| e:\MERN-School-Management-System\backend\models\subjectSchema.js                                 | JavaScript |         29 |          0 |          2 |         31 |
+| e:\MERN-School-Management-System\backend\models\teacherSchema.js                                 | JavaScript |         47 |          0 |          2 |         49 |
+| e:\MERN-School-Management-System\backend\package-lock.json                                       | JSON       |      2,049 |          0 |          1 |      2,050 |
+| e:\MERN-School-Management-System\backend\package.json                                            | JSON       |         22 |          0 |          1 |         23 |
+| e:\MERN-School-Management-System\backend\routes\route.js                                         | JavaScript |         70 |         10 |         39 |        119 |
+| e:\MERN-School-Management-System\frontend\.env                                                   | Properties |          1 |          0 |          2 |          3 |
+| e:\MERN-School-Management-System\frontend\README.md                                              | Markdown   |         38 |          0 |         33 |         71 |
+| e:\MERN-School-Management-System\frontend\package-lock.json                                      | JSON       |     19,877 |          0 |          1 |     19,878 |
+| e:\MERN-School-Management-System\frontend\package.json                                           | JSON       |         53 |          0 |          1 |         54 |
+| e:\MERN-School-Management-System\frontend\public\homepage\about.html                             | HTML       |        216 |         14 |         27 |        257 |
+| e:\MERN-School-Management-System\frontend\public\homepage\contact.html                           | HTML       |        162 |         13 |         17 |        192 |
+| e:\MERN-School-Management-System\frontend\public\homepage\courses.html                           | HTML       |        346 |         14 |         29 |        389 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\custom.css                         | CSS        |         15 |          0 |          5 |         20 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\default-skin\default-skin.css      | CSS        |        352 |         72 |         59 |        483 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\default-skin\default-skin.svg      | XML        |          1 |          0 |          0 |          1 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\style.css                          | CSS        |      2,573 |         21 |        507 |      3,101 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\style.min.css                      | CSS        |          1 |          6 |          0 |          7 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\styles-merged.css                  | CSS        |      6,825 |        180 |        640 |      7,645 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\animate.css                 | CSS        |      2,825 |         30 |        522 |      3,377 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\bootstrap.min.css           | CSS        |          1 |          5 |          0 |          6 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\default-skin.css            | CSS        |        352 |         72 |         59 |        483 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\flexslider.css              | CSS        |        241 |         34 |          0 |        275 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\icomoon.css                 | CSS        |      2,949 |          2 |          4 |      2,955 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\magnific-popup.css          | CSS        |        327 |          6 |         35 |        368 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\owl.carousel.min.css        | CSS        |          1 |          0 |          0 |          1 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\owl.theme.default.min.css   | CSS        |          1 |          0 |          0 |          1 |
+| e:\MERN-School-Management-System\frontend\public\homepage\css\vendor\photoswipe.css              | CSS        |        128 |         31 |         20 |        179 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\demo-files\demo.css | CSS        |        157 |          0 |          2 |        159 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\demo-files\demo.js  | JavaScript |         28 |          0 |          3 |         31 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\demo.html           | HTML       |     14,680 |          2 |        979 |     15,661 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\fonts\icomoon.svg   | XML        |        986 |          0 |          0 |        986 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\selection.json      | JSON       |     26,483 |          0 |          0 |     26,483 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon demo\style.css           | CSS        |      2,949 |          2 |          4 |      2,955 |
+| e:\MERN-School-Management-System\frontend\public\homepage\fonts\icomoon\icomoon.svg              | XML        |        986 |          0 |          0 |        986 |
+| e:\MERN-School-Management-System\frontend\public\homepage\gallery.html                           | HTML       |        320 |         14 |         21 |        355 |
+| e:\MERN-School-Management-System\frontend\public\homepage\gulpfile.js                            | JavaScript |         96 |         29 |         14 |        139 |
+| e:\MERN-School-Management-System\frontend\public\homepage\index.html                             | HTML       |        478 |         19 |         44 |        541 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\custom.js                           | JavaScript |          3 |          1 |          2 |          6 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\main.js                             | JavaScript |        465 |         69 |         96 |        630 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\main.min.js                         | JavaScript |          1 |          0 |          0 |          1 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\scripts.js                          | JavaScript |      2,414 |        928 |        556 |      3,898 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\scripts.min.js                      | JavaScript |          1 |          0 |          0 |          1 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\bootstrap.min.js             | JavaScript |          2 |          5 |          0 |          7 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\html5shiv.min.js             | JavaScript |          1 |          3 |          0 |          4 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\imagesloaded.pkgd.min.js     | JavaScript |          1 |          5 |          1 |          7 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\isotope.pkgd.min.js          | JavaScript |      2,161 |        824 |        530 |      3,515 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.appear.js             | JavaScript |         88 |         14 |         16 |        118 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.countTo.js            | JavaScript |        106 |          3 |         21 |        130 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.easing.1.3.js         | JavaScript |        132 |         70 |          3 |        205 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.flexslider-min.js     | JavaScript |          1 |          4 |          0 |          5 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.magnific-popup.min.js | JavaScript |          1 |          3 |          0 |          4 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.min.js                | JavaScript |          4 |          1 |          1 |          6 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.stellar.min.js        | JavaScript |          1 |          1 |          0 |          2 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\jquery.waypoints.min.js      | JavaScript |          1 |          6 |          0 |          7 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\owl.carousel.min.js          | JavaScript |          2 |          0 |          0 |          2 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\photoswipe-ui-default.min.js | JavaScript |          1 |          3 |          0 |          4 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\photoswipe.min.js            | JavaScript |          1 |          3 |          0 |          4 |
+| e:\MERN-School-Management-System\frontend\public\homepage\js\vendor\respond.min.js               | JavaScript |          1 |          3 |          1 |          5 |
+| e:\MERN-School-Management-System\frontend\public\homepage\package.json                           | JSON       |         16 |          0 |          1 |         17 |
+| e:\MERN-School-Management-System\frontend\public\homepage\scss\_custom-settings.scss             | SCSS       |         37 |          4 |          8 |         49 |
+| e:\MERN-School-Management-System\frontend\public\homepage\scss\style.scss                        | SCSS       |      2,472 |         70 |        131 |      2,673 |
+| e:\MERN-School-Management-System\frontend\public\homepage\teachers.html                          | HTML       |        432 |         13 |         24 |        469 |
+| e:\MERN-School-Management-System\frontend\public\index.html                                      | HTML       |         16 |          7 |          4 |         27 |
+| e:\MERN-School-Management-System\frontend\src\App.js                                             | JavaScript |         41 |          0 |         12 |         53 |
+| e:\MERN-School-Management-System\frontend\src\assets\assignment.svg                              | XML        |          9 |          0 |          1 |         10 |
+| e:\MERN-School-Management-System\frontend\src\assets\students.svg                                | XML        |         94 |          0 |          1 |         95 |
+| e:\MERN-School-Management-System\frontend\src\assets\subjects.svg                                | XML        |          9 |          0 |          1 |         10 |
+| e:\MERN-School-Management-System\frontend\src\assets\time.svg                                    | XML        |          9 |          0 |          1 |         10 |
+| e:\MERN-School-Management-System\frontend\src\components\AccountMenu.js                          | JavaScript |         97 |          0 |          6 |        103 |
+| e:\MERN-School-Management-System\frontend\src\components\CustomBarChart.js                       | JavaScript |         89 |         95 |         31 |        215 |
+| e:\MERN-School-Management-System\frontend\src\components\CustomPieChart.js                       | JavaScript |         37 |         43 |         12 |         92 |
+| e:\MERN-School-Management-System\frontend\src\components\ErrorPage.js                            | JavaScript |         39 |          0 |          7 |         46 |
+| e:\MERN-School-Management-System\frontend\src\components\Popup.js                                | JavaScript |         39 |          0 |          7 |         46 |
+| e:\MERN-School-Management-System\frontend\src\components\SeeNotice.js                            | JavaScript |         55 |          0 |          8 |         63 |
+| e:\MERN-School-Management-System\frontend\src\components\SpeedDialTemplate.js                    | JavaScript |         30 |          0 |          4 |         34 |
+| e:\MERN-School-Management-System\frontend\src\components\TableTemplate.js                        | JavaScript |         69 |          0 |          2 |         71 |
+| e:\MERN-School-Management-System\frontend\src\components\TableViewTemplate.js                    | JavaScript |         63 |          0 |          2 |         65 |
+| e:\MERN-School-Management-System\frontend\src\components\attendanceCalculator.js                 | JavaScript |         52 |          0 |          8 |         60 |
+| e:\MERN-School-Management-System\frontend\src\components\buttonStyles.js                         | JavaScript |         95 |          0 |         10 |        105 |
+| e:\MERN-School-Management-System\frontend\src\components\mobileChecker.js                        | JavaScript |         22 |         17 |          3 |         42 |
+| e:\MERN-School-Management-System\frontend\src\components\styles.js                               | JavaScript |         68 |          1 |          5 |         74 |
+| e:\MERN-School-Management-System\frontend\src\index.css                                          | CSS        |         75 |          6 |         14 |         95 |
+| e:\MERN-School-Management-System\frontend\src\index.js                                           | JavaScript |         14 |          0 |          1 |         15 |
+| e:\MERN-School-Management-System\frontend\src\pages\ChooseUser.js                                | JavaScript |        154 |          0 |         13 |        167 |
+| e:\MERN-School-Management-System\frontend\src\pages\Homepage.js                                  | JavaScript |         68 |          3 |         10 |         81 |
+| e:\MERN-School-Management-System\frontend\src\pages\LoginPage.js                                 | JavaScript |        217 |          0 |         16 |        233 |
+| e:\MERN-School-Management-System\frontend\src\pages\Logout.js                                    | JavaScript |         61 |          0 |         13 |         74 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\AdminDashboard.js                      | JavaScript |        155 |          0 |         17 |        172 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\AdminHomePage.js                       | JavaScript |         94 |          0 |         11 |        105 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\AdminProfile.js                        | JavaScript |         18 |         76 |         11 |        105 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\AdminRegisterPage.js                   | JavaScript |        202 |          0 |         16 |        218 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\SideBar.js                             | JavaScript |         82 |          0 |          4 |         86 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\classRelated\AddClass.js               | JavaScript |        109 |          0 |         11 |        120 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\classRelated\ClassDetails.js           | JavaScript |        260 |          6 |         25 |        291 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\classRelated\ShowClasses.js            | JavaScript |        181 |          4 |         20 |        205 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\noticeRelated\AddNotice.js             | JavaScript |         70 |          0 |         11 |         81 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\noticeRelated\ShowNotices.js           | JavaScript |         91 |          0 |         11 |        102 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\AddStudent.js           | JavaScript |        125 |          0 |         17 |        142 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\SeeComplains.js         | JavaScript |         62 |          0 |          9 |         71 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\ShowStudents.js         | JavaScript |        188 |          5 |         21 |        214 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\StudentAttendance.js    | JavaScript |        184 |          0 |         13 |        197 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\StudentExamMarks.js     | JavaScript |        169 |          0 |         12 |        181 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\studentRelated\ViewStudent.js          | JavaScript |        386 |         36 |         33 |        455 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\subjectRelated\ShowSubjects.js         | JavaScript |        102 |          0 |         13 |        115 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\subjectRelated\SubjectForm.js          | JavaScript |        167 |          0 |         16 |        183 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\subjectRelated\ViewSubject.js          | JavaScript |        191 |          0 |         20 |        211 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\teacherRelated\AddTeacher.js           | JavaScript |         91 |          0 |         15 |        106 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\teacherRelated\ChooseClass.js          | JavaScript |         72 |          0 |         10 |         82 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\teacherRelated\ChooseSubject.js        | JavaScript |         99 |          0 |          8 |        107 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\teacherRelated\ShowTeachers.js         | JavaScript |        156 |          0 |         13 |        169 |
+| e:\MERN-School-Management-System\frontend\src\pages\admin\teacherRelated\TeacherDetails.js       | JavaScript |         56 |          0 |          8 |         64 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentComplain.js                   | JavaScript |        106 |          0 |         10 |        116 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentDashboard.js                  | JavaScript |        112 |          0 |          6 |        118 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentHomePage.js                   | JavaScript |        120 |          0 |         16 |        136 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentProfile.js                    | JavaScript |        100 |          0 |          6 |        106 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentSideBar.js                    | JavaScript |         61 |          0 |          3 |         64 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\StudentSubjects.js                   | JavaScript |        128 |          0 |         15 |        143 |
+| e:\MERN-School-Management-System\frontend\src\pages\student\ViewStdAttendance.js                 | JavaScript |        171 |          0 |         20 |        191 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherClassDetails.js               | JavaScript |        161 |          0 |         17 |        178 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherComplain.js                   | JavaScript |          7 |          0 |          2 |          9 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherDashboard.js                  | JavaScript |        116 |          0 |          9 |        125 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherHomePage.js                   | JavaScript |         89 |          0 |         10 |         99 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherProfile.js                    | JavaScript |         39 |          0 |          8 |         47 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherSideBar.js                    | JavaScript |         57 |          0 |          4 |         61 |
+| e:\MERN-School-Management-System\frontend\src\pages\teacher\TeacherViewStudent.js                | JavaScript |        198 |          0 |         18 |        216 |
+| e:\MERN-School-Management-System\frontend\src\redux\complainRelated\complainHandle.js            | JavaScript |         20 |          0 |          2 |         22 |
+| e:\MERN-School-Management-System\frontend\src\redux\complainRelated\complainSlice.js             | JavaScript |         38 |          0 |          4 |         42 |
+| e:\MERN-School-Management-System\frontend\src\redux\noticeRelated\noticeHandle.js                | JavaScript |         20 |          0 |          2 |         22 |
+| e:\MERN-School-Management-System\frontend\src\redux\noticeRelated\noticeSlice.js                 | JavaScript |         38 |          0 |          4 |         42 |
+| e:\MERN-School-Management-System\frontend\src\redux\sclassRelated\sclassHandle.js                | JavaScript |         87 |          0 |         12 |         99 |
+| e:\MERN-School-Management-System\frontend\src\redux\sclassRelated\sclassSlice.js                 | JavaScript |         88 |          0 |          4 |         92 |
+| e:\MERN-School-Management-System\frontend\src\redux\store.js                                     | JavaScript |         18 |          0 |          3 |         21 |
+| e:\MERN-School-Management-System\frontend\src\redux\studentRelated\studentHandle.js              | JavaScript |         49 |          0 |          6 |         55 |
+| e:\MERN-School-Management-System\frontend\src\redux\studentRelated\studentSlice.js               | JavaScript |         53 |          0 |          4 |         57 |
+| e:\MERN-School-Management-System\frontend\src\redux\teacherRelated\teacherHandle.js              | JavaScript |         44 |          0 |          6 |         50 |
+| e:\MERN-School-Management-System\frontend\src\redux\teacherRelated\teacherSlice.js               | JavaScript |         52 |          0 |          4 |         56 |
+| e:\MERN-School-Management-System\frontend\src\redux\userRelated\userHandle.js                    | JavaScript |        106 |          0 |         15 |        121 |
+| e:\MERN-School-Management-System\frontend\src\redux\userRelated\userSlice.js                     | JavaScript |         96 |          0 |          7 |        103 |
+| Total                                                                                            |            |    103,101 |      2,989 |      5,430 |    111,520 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
